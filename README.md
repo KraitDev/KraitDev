@@ -32,6 +32,7 @@ We design our tools to be modular, accessible, and community-driven. Here is wha
 
 |   |   |   |
 | :--- | :---: | :--- |
+| <a href="https://github.com/skiLLM-Labs/Krait"> <img src="https://img.shields.io/badge/Krait-c20000?style=for-the-badge&logo=github&logoColor=white" /> </a> | ![Active](https://img.shields.io/badge/Status-Active-green?style=flat-square) | Fast, minimal, and memory-safe compiled systems programming language. |
 | <a href="https://github.com/skiLLM-Labs/skiLL.Md"> <img src="https://img.shields.io/badge/SkiLL.Md-7c7fff?style=for-the-badge&logo=github&logoColor=white" /> </a> | ![Active](https://img.shields.io/badge/Status-Active-green?style=flat-square) | Dynamic markdown-driven tooling designed for AI context optimization. |
 | <a href="https://github.com/skiLLM-Labs/FindeX"> <img src="https://img.shields.io/badge/FindeX-000?style=for-the-badge&logo=github&logoColor=white" /> </a> | ![Inactive](https://img.shields.io/badge/Status-Temporarily_Inactive-yellow?style=flat-square) | Fast instant search on Windows based on Python. |
 
